@@ -80,6 +80,3 @@ The dataset contains information about:
 ### Build by ###
 MOHAMMED SHAFIULLA
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Data-Scientist-Salary-Dashboard.git
