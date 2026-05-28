@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Tableau temp/cache files
+*.tmp
+*.temp
+*.bak
+*.old
+*.cache
+
+# Extracted / packaged Tableau artifacts that should not be committed unless needed
+*.twb~
+*.twbx~
