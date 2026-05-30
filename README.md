@@ -71,11 +71,6 @@ The dataset contains information about:
 
 ---
 
-## 📸 Dashboard Preview
-
-![Data Scientist Salary Dashboard](dashboard_preview.png)
-
----
 
 ### Build by ###
 MOHAMMED SHAFIULLA
